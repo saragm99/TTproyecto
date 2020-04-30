@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text, images, graphics, sound files, animation, video and/or their arrangement on Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T170400Z" creationid="HP" creationdate="20200429T170400Z">
+        <seg>El texto, imágenes, gráficos, archivos de sonido, animación, video y/ o su acuerdo con la página web de Panda Restaurant Grioup, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By accessing this website, you indicate your acknowledgment and acceptance of these Terms and Conditions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T170319Z" creationid="HP" creationdate="20200429T170319Z">
+        <seg>Mediante el acceso a esta página web, están indicando su consentimiento y aceptación respecto a estos términos y condiciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not agree, you should not use this website.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T170248Z" creationid="HP" creationdate="20200429T170248Z">
+        <seg>En caso de desacuerdo, no deberían usar esta página web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEGAL STATEMENT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T165244Z" creationid="HP" creationdate="20200429T165244Z">
+        <seg>AVISO LEGAL </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification or use of the materials for any other purpose violates Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T171139Z" creationid="HP" creationdate="20200429T171139Z">
+        <seg>La modificación o uso de los materiales para cualquier otro propósito viola los derechos de propiedad intelectual de Panda Restaurant Group, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neither title nor intellectual property rights are transferred to you by access to this site, but remain with Panda Restaurant Group, Inc., who owns full and complete title to the material in this site.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T171507Z" creationid="HP" creationdate="20200429T171507Z">
+        <seg>Tampoco ningún título o derechos de propiedad intelectual se le transfieren a usted mediante el acceso a esta página ya que pertenecen a Panda Restaurant Group, Inc, al que se le otorga plenamente el título del material en esta página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restrictions on Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T170343Z" creationid="HP" creationdate="20200429T170343Z">
+        <seg>
+Restricciones de uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>intellectual property rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T171222Z" creationid="HP" creationdate="20200429T171222Z">
+        <seg>derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>requires that all visitors to this website agree to these terms and conditions ("Terms and Conditions").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T170215Z" creationid="HP" creationdate="20200429T170215Z">
+        <seg>requiere que todos los visitantes de su página web estén de acuerdo con estos términos y condiciones (“Términos y condiciones”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>website are all subject to intellectual property right protection and such material from pandarg.com, pandaexpress.com, pandainn.com, hibachisan.com, pandacares.org and any other world wide website owned, operated, licensed or controlled by Panda Restaurant Group, Inc., or any of its related, affiliated or subsidiary companies (collectively "Panda Restaurant Group, Inc.") may not be copied, distributed, republished, uploaded, posted or transmitted in any way without the prior written consent of Panda Restaurant Group, Inc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="HP" changedate="20200429T171007Z" creationid="HP" creationdate="20200429T171007Z">
+        <seg>están sujetos a los derechos de protección de la propiedad intelectual y todo material de pandarg.com, pandaexpress.com, pandainn.com, hibachisan.com, pandacares.org y cualquier otro sitio web perteneciente, operativo, licenciado o controlado por Panda Restaurant Group, Inc. o cualquiera de de sus compañías asociadas, afiliadas o subsidiarias (colectivamente “Panda Restaurant Group, Inc.”) no puede ser copiado, distribuido, reeditado, descargado, publicado o transmitido de ninguna forma sin el previo escrito de consentimiento de Panda Restaurant Group, Inc..</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
